@@ -35,7 +35,7 @@
   # Hardware
   hardware.bluetooth.enable = true;
   hardware = {
-	opengl.enable = true;
+	graphics.enable = true;
 	nvidia.modesetting.enable = true;
   };
 
@@ -112,7 +112,7 @@
 
   environment.systemPackages = with pkgs; [
 	neovim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
-	discord
+	webcord-vencord
 	git
 	kitty
 	dunst
