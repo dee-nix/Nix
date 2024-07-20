@@ -121,6 +121,7 @@
 	rofi-wayland
 	neofetch
 	unzip
+ home-manager
   ];
 
   security.rtkit.enable = true;
