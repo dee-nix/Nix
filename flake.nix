@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   description = "Home Manager configuration of dee";
 
   inputs = {
@@ -27,7 +26,6 @@
         # to pass through arguments to home.nix
       };
     };
-=======
   description = "Nixos config flake";
 
   inputs = {
@@ -48,5 +46,4 @@
       ];
     };
   };
->>>>>>> 8666e58 (flakes and home-manager)
 }
