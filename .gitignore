@@ -1,2 +1,2 @@
-flake.lock
-home.nix
+./flake.lock
+./home.nix
